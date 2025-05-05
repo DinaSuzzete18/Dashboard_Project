@@ -30,10 +30,12 @@ Dari dashboard interaktif, terlihat bahwa 3 kategori produk unggulan yang paling
 1. Electronic Accessories dengan GPM (Gross Profit Margin) sebesar 32,35%.
 2. Food and Beverages dengan GPM (Gross Profit Margin) sebesar 29,61%.
 3. Fashion Accessories dengan GPM (Gross Profit Margin) sebesar 28,82%.
+
 Selain itu, kategori produk lainnya juga menunjukkan kontribusi signifikan terhadap profit:
 1. Home and Lifestyle dengan GPM sebesar 28,62%.
 2. Sport and Travel dengan GPM sebesar 26,27%.
 3. Health and Beauty dengan GPM sebesar 25,90%.
+
 Walaupun ketiga produk ini memiliki GPM yang lebih rendah dibandingkan dengan tiga kategori unggulan, produk-produk ini juga memiliki kontribusi yang penting dalam membentuk portofolio produk yang seimbang. Berdasarkan kategori dengan GPM lebih rendah, perusahaan dapat mempertimbangkan strategi untuk meningkatkan efisiensi margin atau fokus pada promosi dan peningkatan kualitas.
 
 ### Metode Pembayaran
