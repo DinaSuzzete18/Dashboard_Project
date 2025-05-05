@@ -43,5 +43,6 @@ Dari dashboard interaktif, terlihat bahwa meskipun metode pembayaran terbagi ham
 1. Cash : 34,41%
 2. E-Walet : 34,34%
 3. Credit Card : 31,25%
+
 Berdasarkan data tersebut menunjukkan bahwa metode pembayaran cash masih menjadi pilihan utama bagi sebagian besar pengguna.
 
