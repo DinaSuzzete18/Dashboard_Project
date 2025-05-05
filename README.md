@@ -11,8 +11,7 @@
 3. Pendapatan Kotor : $28 Juta
 4. Pendapatan Bersih: $29.22 juta
 5. Keuntungan  : $8.38 juta
-## Dashboard Visualisasi
-
+   
 ## Insight
 ### Tren Profit Harian (Jan–Mar 2019)
 Terdapat fluktuasi profit harian dengan beberapa lonjakan dan penurunan tajam, terutama pada pertengahan Februari 2019. Berdasarkan data, penurunan profit tercatat pada beberapa tanggal berikut:
@@ -20,7 +19,10 @@ Terdapat fluktuasi profit harian dengan beberapa lonjakan dan penurunan tajam, t
 - Februari:  1, 4, 5, 6, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 26, dan 28. Penurunan paling drastis terjadi pada 4 Februari 2019 dengan total kerugian sebesar $275.782.
 - Maret: 4, 6, 7, 11, 12, 13, 15, 16, 18, 21, 25, dan 28.
 Fluktuasi ini memberikan gambaran tentang kapan penurunan signifikan terjadi, yang mungkin disebabkan oleh faktor eksternal atau tren musiman yang mempengaruhi perilaku konsumen.
-
+#### Masukan untuk Analisis Lanjutan:
+1. Lakukan evaluasi menyeluruh terhadap faktor internal perusahaan dengan memastikan tidak terdapat masalah pada ketersediaan stok, proses logistik, maupun sistem pembayaran. Kendala teknis seperti ini dapat menjadi salah satu penyebab penurunan penjualan pada tanggal-tanggal tertentu.
+2. Melakukan program promosi seperti flash sale, diskon, atau bundling produk pada awal dan akhir bulan, bertepatan dengan waktu-waktu rawan penurunan penjualan.
+3. Fokuskan mempromosikan pada produk yang memiliki margin tinggi serta kategori yang mengalami penurunan penjualan tertinggi.
 
 ### Tren Pembelian Konsumen 
 Dari dashboard interaktif, terlihat bahwa 3 kategori produk unggulan yang paling banyak memberikan kontribusi tertinggi terhadap profit, yaitu
